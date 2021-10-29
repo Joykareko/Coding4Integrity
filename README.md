@@ -5,7 +5,7 @@ We will be using machine learning and software tools to detect fraudulent activi
 # Tools Used.
 
 
-# **USSD Functionality ** #
+# **USSD Functionality** #
 
 **KeywordsMeaning**
 
@@ -19,15 +19,15 @@ We will be using machine learning and software tools to detect fraudulent activi
 
 A user will be able to access the ussd through dialing *384# and a menu shall pop up for the user to report any corruption activities going on.
 
-![ussdcodepicture](https://postimg.cc/FkQNVbWR)
+![ussdcodepicture](images/word.png)
 
-![ussdcodepicture](https://postimg.cc/MnwtJn4Q)
+![ussdcodepicture](images/work.png)
 
-![ussdcodepicture](https://postimg.cc/G4bPSZ8P)
+![ussdcodepicture](images/okay.png)
 
-![ussdcodepicture](https://postimg.cc/dhX2tDN6)
+![ussdcodepicture](images/challenge.png)
 
-![ussdcodepicture](https://postimg.cc/qtVN5KZP)
+![ussdcodepicture](images/ussd.png)
 
 
 
