@@ -78,7 +78,6 @@ A user will be able to access the ussd through dialing *384# and a menu shall po
  <table>
   <tr>
     <td>Thank you!</td>
-     
   </tr>
   <tr>
     <td><img src="images/ussd.png" width=600 height=400></td>
@@ -89,7 +88,7 @@ A user will be able to access the ussd through dialing *384# and a menu shall po
 
 # **Installation Guide** #
 
-To run and contribute on this project use the below procedure:
+To run this project on your local machine and <possibly> contribute on this project use the below procedure:
 1. git clone <githublink>
 2. cd coding4integrity
 3. virtualenv virtenv
