@@ -53,15 +53,53 @@ An Officer at the Anticorruption Agency is able to view a dashboard that has 4 i
 
 A user will be able to access the ussd through dialing *384# and a menu shall pop up for the user to report any corruption activities going on.
 
-![ussdcodepicture](images/word.png)
+<table>
+  <tr>
+    <td>First Prompt</td>
+     <td>Second Prompt</td>
+  </tr>
+  <tr>
+    <td><img src="images/word.png" width=600 height=400></td>
+    <td><img src="images/work.png" width=600 height=400></td>
+   </tr>
+ </table>
+ 
+<table>
+  <tr>
+    <td>Third Prompt</td>
+     <td>Fourth Prompt</td>
+  </tr>
+  <tr>
+    <td><img src="images/okay.png" width=600 height=400></td>
+    <td><img src="images/challenge.png" width=600 height=400></td>
+   </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td>Thank you!</td>
+     
+  </tr>
+  <tr>
+    <td><img src="images/ussd.png" width=600 height=400></td>
+   
+   </tr>
+ </table>
 
-![ussdcodepicture](images/work.png)
 
-![ussdcodepicture](images/okay.png)
+# **Installation Guide** #
 
-![ussdcodepicture](images/challenge.png)
+To run and contribute on this project use the below procedure:
+1. git clone <githublink>
+2. cd coding4integrity
+3. virtualenv virtenv
+4. source virtenv/bin/activate
+5. pip install -r requirements.txt
+6. python manage.py makemigrations
+7. python manage.py migrate
+8. python manage.py runserver
+9. access port 127.0.0.0 on your local browser
 
-![ussdcodepicture](images/ussd.png)
 
 
 
