@@ -36,7 +36,7 @@ An Officer at the Anticorruption Agency is able to view a dashboard that has 4 i
 3. Website reports received through the website.
 4. Details of the reports
 
-![Screenshot 2](https://user-images.githubusercontent.com/53013896/139933976-d6ee1534-90b6-46af-8322-0c718ac8d57e.jpeg)
+![Dashboard screenshot](https://user-images.githubusercontent.com/53013896/139947418-b683d630-4959-422f-befc-5cdf8bb3be98.jpeg)
 
 
 # **USSD Functionality** #
