@@ -70,8 +70,8 @@ A user will be able to access the ussd through dialing *384# and a menu shall po
      <td>Fourth Prompt</td>
   </tr>
   <tr>
-    <td><img src="images/okay.png" width=600 height=400></td>
-    <td><img src="images/challenge.png" width=600 height=400></td>
+    <td><img src="images/okay.png" width=700 height=400></td>
+    <td><img src="images/challenge.png" width=750 height=400></td>
    </tr>
  </table>
  
