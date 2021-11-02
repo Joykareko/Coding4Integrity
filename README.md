@@ -1,4 +1,10 @@
 
+# Coding4Integrity
+# About Coding4Integrity
+This project uses technology to fight corruption within our African Countries, specifically Kenya.
+We will be using machine learning and software tools to detect fraudulent activities within the public procurement system while allowing the public to anonymously report any fraud
+# Tools Used.
+
 # About our Project
 Our company Enigma, is developing an accurate and affordable fraud detection and whistleblowing system that will help Anti Corruption Agencies and relevant authorities, investigate fraud seamlessly while ensuring that the general public is able to report fraud safely and anonymously.
 
