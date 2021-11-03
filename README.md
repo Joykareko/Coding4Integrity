@@ -69,15 +69,15 @@ A user will be able to access the ussd through dialing *384# and a menu shall po
 
 # **Installation guide:** #
 
-git clone https://github.com/Enigmm/Coding4Integrity
-cd coding4integrity
-virtualenv virtenv
-source virtenv/bin/activate
-pip install -r requirements.txt
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
-access port 127.0.0.0 on your local browser
+1. git clone https://github.com/Enigmm/Coding4Integrity
+2. cd coding4integrity
+3. virtualenv virtenv
+4. source virtenv/bin/activate
+5. pip install -r requirements.txt
+6. python manage.py makemigrations
+7. python manage.py migrate
+8. python manage.py runserver
+9. Access port 127.0.0.0 on your local browser
 
 
 
