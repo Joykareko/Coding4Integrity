@@ -3,7 +3,7 @@
 Our company Enigma, is developing an accurate and affordable fraud detection and whistleblowing system that will help Anti Corruption Agencies and relevant authorities, investigate fraud seamlessly while ensuring that the general public is able to report fraud safely and anonymously.
 
 This project uses technology to fight corruption within our African Countries, specifically Kenya.
-We will be using machine learning and other software tools to detect fraudulent activities within the public procurement system while allowing the public to anonymously report any fraud.
+We will be using machine learning and other software tools to detect fraudulent activities within the public procurement system while allowing the public to safely and anonymously report any fraud activity.
 
 # **How the system works** #
 This system is designed for 2 end users:
