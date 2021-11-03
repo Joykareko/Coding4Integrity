@@ -16,6 +16,9 @@ We have trained the model to be able to detect fraud, using data that has variou
  2. The nature of the transaction
  3. The amount of transaction.
  4. Other features as will be informed to constitute 'fraud'.
+
+![ussdcodepicture](images/ml.png)
+
  
 For contractor bidding, the below metrics have been used.
 
@@ -63,6 +66,18 @@ A user will be able to access the ussd through dialing *384# and a menu shall po
 
 ![ussdcodepicture](images/ussd.png)
 
+
+# **Installation guide:** #
+
+1. git clone https://github.com/Enigmm/Coding4Integrity
+2. cd coding4integrity
+3. virtualenv virtenv
+4. source virtenv/bin/activate
+5. pip install -r requirements.txt
+6. python manage.py makemigrations
+7. python manage.py migrate
+8. python manage.py runserver
+9. Access port 127.0.0.0 on your local browser
 
 
 
