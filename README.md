@@ -6,7 +6,11 @@ This project uses technology to fight corruption within our African Countries, s
 We will be using machine learning and other software tools to detect fraudulent activities within the public procurement system while allowing the public to anonymously report any fraud.
 
 # **How the system works** #
-Ideally, the fraud detection model will be deployed at Treasury for use in th IFMIS system.
+This system is designed for 2 end users:
+  1. Anticorruption Agency [for speedy investigations and for easy collaboration between authorities]
+  2. The general public [for use in anonymous whistleblowing]
+  
+Ideally, the fraud detection model will be deployed at Treasury for use in the IFMIS system.
 We have trained the model to be able to detect fraud, using data that has various features such as:
  1. Time taken between transactions (usually fraud takes place when many transactions are done together)
  2. The nature of the transaction
